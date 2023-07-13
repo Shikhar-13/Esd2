@@ -1,0 +1,72 @@
+body{background-color: rgb(43, 16, 50)
+}
+.mydiv{
+background-color: rgb(251, 251, 251); 
+padding:30px; 
+font-style:italic
+}
+button{background-color: antiquewhite;
+ border-radius: 100px;
+ padding:15px;
+ padding-left: 20px;
+ padding-right: 20px;
+ font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size:large;
+
+}
+.bdiv{
+    background-color: rgb(157, 157, 157); 
+padding:30px; 
+font-style:italic
+
+}
+
+.container{border-radius: 20px;
+    box-shadow:6px 8px 5px  rgb(0, 0, 0);
+    background-color: rgb(241, 241, 238);
+    width:500px;
+    padding-top: 60px;
+    padding-left:60px ;
+    padding-right:60px ;
+    padding-bottom:60px;
+    margin-bottom: 80px;
+    align-items: center;
+    position:relative;
+    text-align: center;
+    margin: 20px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.basic{
+    text-align:justify;
+    background-color: rgb(255, 255, 255);
+    padding:30px;
+    border-radius: 20px;
+    
+    margin: 20px;
+
+
+
+}
+
+.input-box input{
+    width:95%;
+    height: 30px;
+    border-radius: 8px;
+    margin:5px;
+    border:1px solid;
+}
+select{
+    width:95%;
+    height: 40px;
+    border-radius: 9px;
+    margin:5px;
+}
+.button-control{
+    align-items: right;
+    text-align: right;
+    margin: 10px;
+}
